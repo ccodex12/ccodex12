@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ccodex12
 - 👀 I’m interested in the stuffs like AI and Machine learning.
-- 🌱 I’m currently learning anaylytical tools and more on deep learning.
-- 💞️ Currently I'm not available for collaboration.
-- 📫 How to reach me - shubhamsarrafs7@hotmail.com
+- 📫 reach me - shubhamsarrafs7@hotmail.com
 - Download datasets from - https://1drv.ms/u/s!AmAe-Ci3fuxFqV6a01rFfiQCPY52?e=qB5May
 
 <!---
